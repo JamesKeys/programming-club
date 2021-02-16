@@ -15,7 +15,7 @@ We are given 5 problems to do every other week from the [Kattis Problem Archive]
 ### Week 2
 | Problem | Difficulty | Solved? | Language |
 |---------|------------|---------|----------|
-| [Kemija](https://open.kattis.com/problems/kemija08) | 1.5 | No | |
+| [Kemija](https://open.kattis.com/problems/kemija08) | 1.5 | Yes | Java |
 | [Keywords](https://open.kattis.com/problems/keywords) | 2.3 | Yes | Java |
 | [Keep it Cool](https://open.kattis.com/problems/keepitcool) | 2.7 | No | |
 | [Logo](https://open.kattis.com/problems/logo) | 3.0 | Yes | Java |
