@@ -25,7 +25,7 @@ We are given 5 problems to do every other week from the [Kattis Problem Archive]
 | Problem | Difficulty | Solved? | Language |
 |---------|------------|---------|----------|
 | [A Towering Problem](https://open.kattis.com/problems/towering) | 2.0 | Yes | Java |
-| [Flipping Patties](https://open.kattis.com/problems/flippingpatties) | 2.2 | No | |
+| [Flipping Patties](https://open.kattis.com/problems/flippingpatties) | 2.2 | Yes | Python |
 | [2048](https://open.kattis.com/problems/2048) | 2.3 | No | |
 | [Alice in the Digital World](https://open.kattis.com/problems/alicedigital) | 3.8 | No | |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | 5.1 | No | |
