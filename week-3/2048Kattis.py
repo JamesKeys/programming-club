@@ -6,14 +6,14 @@ def slideLeft(arr):
     # iff the space to the left of it is open (0)
     for x in range(3):
             for i in range(3,0,-1):
-                if arr[i-1] == 0:
+                if (arr[i-1] == 0):
                     arr[i-1] = arr[i]
                     arr[i] = 0
 def addLeft(arr):
     # Starts from the left, adding the integer to the right
     # iff the integer to the right matches, replaces with 0
     for i in range(3):
-        if arr[i] == arr[i+1]:
+        if (arr[i] == arr[i+1]):
             arr[i] = arr[i] + arr[i+1]
             arr[i+1] = 0
 
@@ -22,14 +22,14 @@ def slideRight(arr):
     # iff the space to the right of it is open (0)
     for x in range(3):
             for i in range(3):
-                if arr[i+1] == 0:
+                if (arr[i+1] == 0):
                     arr[i+1] = arr[i]
                     arr[i] = 0
 def addRight(arr):
     # Starts from the right, adding the integer to the left
     # iff the integer to the left matches, replaces with 0
     for i in range(3,0,-1):
-        if arr[i] == arr[i-1]:
+        if (arr[i] == arr[i-1]):
             arr[i] = arr[i] + arr[i-1]
             arr[i-1] = 0
 
@@ -37,7 +37,7 @@ def slideHorizontal(game, leftRight):
     # Slides the tiles in the board and adds matching numbers
     # leftRight = -1 for a LEFT shift, else for a RIGHT shift
     for arr in game:
-        if leftRight == -1:
+        if (leftRight == -1):
             slideLeft(arr)
             addLeft(arr)
             slideLeft(arr)
@@ -73,9 +73,9 @@ for arr in game:
 # DOWN: direction = 3
 direction = int(input())
 
-if direction == 0 or direction == 2:
+if (direction == 0 or direction == 2):
     slideHorizontal(game, direction-1)
-if direction == 1 or direction == 3:
+if (direction == 1 or direction == 3):
     game = transpose(game) # Transposing the board allows me to use the function I previously created
     slideHorizontal(game, direction-2)
     game = transpose(game) # And transpose back to reorient the board correctly
