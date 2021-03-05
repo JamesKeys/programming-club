@@ -29,3 +29,12 @@ We are given 5 problems to do every other week from the [Kattis Problem Archive]
 | [2048](https://open.kattis.com/problems/2048) | 2.3 | Yes | Python |
 | [Alice in the Digital World](https://open.kattis.com/problems/alicedigital) | 3.8 | Yes | Python |
 | [10 Kinds of People](https://open.kattis.com/problems/10kindsofpeople) | 5.1 | No | |
+
+### Week 4
+| Problem | Difficulty | Solved? | Language |
+|---------|------------|---------|----------|
+| [Final Exam](https://open.kattis.com/problems/finalexam2) | 1.4 | Yes | Python |
+| [Above Average](https://open.kattis.com/problems/aboveaverage) | 2.0 | Yes | Python |
+| [ICPC Tutorial](https://open.kattis.com/problems/tutorial) | 2.9 | Yes | Java |
+| [Fibonnaci Cycles](https://open.kattis.com/problems/fibonaccicycles) | 3.0 | No |  |
+| [Firefly](https://open.kattis.com/problems/firefly) | 3.5 | No |  |
