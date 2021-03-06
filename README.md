@@ -37,4 +37,4 @@ We are given 5 problems to do every other week from the [Kattis Problem Archive]
 | [Above Average](https://open.kattis.com/problems/aboveaverage) | 2.0 | Yes | Python |
 | [ICPC Tutorial](https://open.kattis.com/problems/tutorial) | 2.9 | Yes | Java |
 | [Fibonnaci Cycles](https://open.kattis.com/problems/fibonaccicycles) | 3.0 | Yes | Python |
-| [Firefly](https://open.kattis.com/problems/firefly) | 3.5 | No |  |
+| [Firefly](https://open.kattis.com/problems/firefly) | 3.5 | Yes | Python |
