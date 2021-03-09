@@ -9,7 +9,7 @@ We are given 5 problems to do every other week from the [Kattis Problem Archive]
 | [Roaming Romans](https://open.kattis.com/problems/romans) | 1.4 | Yes | Java |
 | [Exam](https://open.kattis.com/problems/exam) | 1.9 | Yes | Java |
 | [Recount](https://open.kattis.com/problems/recount) | 2.1 | Yes | Java |
-| [Game of Throwns](https://open.kattis.com/problems/throwns) | 2.6 | No | |
+| [Game of Throwns](https://open.kattis.com/problems/throwns) | 2.6 | Yes | Python |
 | [Inverted Deck](https://open.kattis.com/problems/inverteddeck) | 3.6 | No | |
 
 ### Week 2
