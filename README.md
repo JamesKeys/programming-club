@@ -38,3 +38,12 @@ We are given 5 problems to do every other week from the [Kattis Problem Archive]
 | [ICPC Tutorial](https://open.kattis.com/problems/tutorial) | 2.9 | Yes | Java |
 | [Fibonnaci Cycles](https://open.kattis.com/problems/fibonaccicycles) | 3.0 | Yes | Python |
 | [Firefly](https://open.kattis.com/problems/firefly) | 3.5 | Yes | Python |
+
+### Week 5
+| Problem | Difficulty | Solved? | Language |
+|---------|------------|---------|----------|
+| [Encoded Message]() | 1.4 | Yes | Python |
+| [School Spirit]() | 1.5 | Yes | Python |
+| [Adding Words]() | 3.6 | Yes | Python |
+| [Kastenlauf]() | 4.2 | Yes | Python |
+| [Hurricane Danger]() | 5.3 | No | |
