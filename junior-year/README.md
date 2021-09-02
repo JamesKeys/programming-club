@@ -1,6 +1,6 @@
 # programming-club
 
-Here are some programming problems I did for the programming club at Villanova University.
+Here are the programming problems I did for the programming club at Villanova University.
 We are given 5 problems to do every other week from the [Kattis Problem Archive](https://open.kattis.com).
 
 ### Week 1
