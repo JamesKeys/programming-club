@@ -1,6 +1,6 @@
 # programming-club
 
-Here are some programming problems I did for the programming club at Villanova University.
+Here are the programming problems I did for the programming club at Villanova University.
 We are given 5 problems to do every other week from the [Kattis Problem Archive](https://open.kattis.com).
 
 ### Week 1
@@ -42,8 +42,8 @@ We are given 5 problems to do every other week from the [Kattis Problem Archive]
 ### Week 5
 | Problem | Difficulty | Solved? | Language |
 |---------|------------|---------|----------|
-| [Encoded Message]() | 1.4 | Yes | Python |
-| [School Spirit]() | 1.5 | Yes | Python |
-| [Adding Words]() | 3.6 | Yes | Python |
-| [Kastenlauf]() | 4.2 | Yes | Python |
-| [Hurricane Danger]() | 5.3 | No | |
+| [Encoded Message](https://open.kattis.com/problems/encodedmessage) | 1.4 | Yes | Python |
+| [School Spirit](https://open.kattis.com/problems/schoolspirit) | 1.5 | Yes | Python |
+| [Adding Words](https://open.kattis.com/problems/addingwords) | 3.6 | Yes | Python |
+| [Kastenlauf](https://open.kattis.com/problems/kastenlauf) | 4.2 | Yes | Python |
+| [Hurricane Danger](https://open.kattis.com/problems/hurricanedanger) | 5.3 | No | |
