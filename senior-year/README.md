@@ -17,6 +17,6 @@ We are given 5 problems to do every other week from the [Kattis Problem Archive]
 |---------|------------|---------|----------|
 | [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | 1.3 | Yes | Python |
 | [Parking](https://open.kattis.com/problems/parking2) | 1.4 | Yes | Python |
-| [Proofs](https://open.kattis.com/problems/proofs) | 2.3 | Yes | Python |
+| [Proofs](https://open.kattis.com/problems/proofs) | 2.3 | No | Python |
 | [Peg Game For Two](https://open.kattis.com/problems/peggamefortwo) | 3.1 | No | Python |
 | [Inverted Deck](https://open.kattis.com/problems/inverteddeck) | 3.6 | No | Python |
